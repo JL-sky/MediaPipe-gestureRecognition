@@ -1,5 +1,5 @@
 # -*- codeing=utf-8 -*-
-# @Author:姜磊
+# @Author:千钧
 # 人间烟火气，最抚凡人心
 import mediapipe as mp
 import cv2 as cv
