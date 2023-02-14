@@ -25,6 +25,6 @@
 
 登录成功进入播放器菜单界面，对应显示歌曲菜单和手势功能提示
 
-[![pSoXeTU.png](https://s1.ax1x.com/2023/02/14/pSoXeTU.png)](https://imgse.com/i/pSoXeTU
+![pSoXeTU.png](https://s1.ax1x.com/2023/02/14/pSoXeTU.png)
 
 按照菜单手势进行功能控制，如在屏幕前摆出**“OK”**手势会**启动**播放器播放音乐，向右向左**挥手**会**切换**曲目，“**点赞”或“握拳”**会**增减音量**等
